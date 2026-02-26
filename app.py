@@ -9,9 +9,9 @@ import io
 app = FastAPI()
 
 db = mysql.connector.connect(
-    host="YOUR_DB_HOST",
-    user="YOUR_DB_USER",
-    password="YOUR_DB_PASS",
+    host="localhost",
+    user="u257771616_main",
+    password="Kiet@2001",
     database="u257771616_main"
 )
 
