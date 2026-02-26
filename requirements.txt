@@ -1,7 +1,7 @@
 fastapi
 uvicorn
-face_recognition
-opencv-python
+face-recognition
+opencv-python-headless
 pillow
 mysql-connector-python
 numpy
